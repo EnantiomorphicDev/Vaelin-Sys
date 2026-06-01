@@ -36,5 +36,7 @@ I am open to professional inquiries, technical collaboration, or discussions reg
 
 * **Email:** [vaelin-sys.surging288@slmail.me](mailto:vaelin-sys.surging288@slmail.me)
 * **GitHub:** [@Vaelin-Sys](https://github.com)
+* * **Asset:** Download [GPG Public Key Block](https://github.com "Vaelin-Sys GPG Endpoint")
+
 * **Availability:** Open to part-time consulting, software auditing, and remote or hybrid contracting.
 * **Response Policy:** Technical project briefs sent via email are typically reviewed and acknowledged within 48 business hours.
